@@ -1,0 +1,6 @@
+editing
+ls
+vi
+touch
+cmd
+chmod 777
